@@ -1,5 +1,6 @@
 # Fallout Shelter Cheat Software
 Fallout Shelter Cheat Software Open Source.
+
 All files except for the website are entirely created by me.
 
 # Run
@@ -7,6 +8,7 @@ Run the file named Engine.Py in the Scripts folder to run the software.
 
 # Files
 Save Vault.Json file in files folder.
+
 Dont delete backups folder or files.
 
 # Decrypt And Encrypt
