@@ -6,6 +6,9 @@ All files except for the website are entirely created by me.
 # Run
 Run the file named Engine.Py in the Scripts folder to run the software.
 
+# Access Key
+The access key is: Admin
+
 # Files
 Save Vault.Json file in files folder.
 
